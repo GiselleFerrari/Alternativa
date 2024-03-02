@@ -93,7 +93,7 @@ header {
 
 .subtitulo {
     text-align: center;
-    font-weight: 300;
+    font-weight: 400;
     color: #9f8ad0;
     margin-bottom: 40px;
     font-size: 40px;
@@ -107,7 +107,7 @@ header {
 }
 
 .contenedor-servicio img {
-    width: 40%;
+    width: 30%;
 }
 
 .checklist-servicio {
@@ -128,7 +128,7 @@ header {
     background-image: linear-gradient(to top, #a18cd1 0, #fbc2eb 100%);
     width: 30px;
     height: 30px;
-    color: #fff;
+    color: #ffffff00;
     text-align: center;
     border-radius: 50%;
     font-weight: 700;
